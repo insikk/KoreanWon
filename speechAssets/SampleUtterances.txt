@@ -1,0 +1,10 @@
+KoreanWonIntent {DollarAmount}
+KoreanWonIntent {DollarAmount} US dollar
+KoreanWonIntent {DollarAmount} dollar
+KoreanWonIntent {DollarAmount} dollars
+KoreanWonIntent {DollarAmount} buck
+KoreanWonIntent {DollarAmount} bucks
+KoreanWonIntent {DollarAmount} {DollarBigUnit}
+KoreanWonIntent {DollarAmount} {DollarBigUnit} US dollar
+KoreanWonIntent {DollarAmount} {DollarBigUnit} dollars
+KoreanWonIntent {DollarAmount} {DollarBigUnit} bucks
